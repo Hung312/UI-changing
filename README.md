@@ -1,8 +1,8 @@
-# &#x09;   **============================**
+# &#x09;   **=============**
 
 # &#x09;   **|     UI Control Panel     |**
 
-# &#x09;   **============================**
+# &#x09;   **=============**
 
 * ###### **I created the webpage named "UI-changing".**
 * ###### **Here you can preview the card using "event" properties implied with JavaScript functions.**
